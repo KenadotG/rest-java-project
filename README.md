@@ -1,8 +1,9 @@
 Example Spring Boot REST Service
 
+from Docker and Kubernetes for Java Developers
+
 Quick start
 -----------
-1. `mvn package`
-2. `java -jar target/example-spring-boot-rest-1.0-SNAPSHOT.jar`
+
 
 
