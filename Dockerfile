@@ -1,0 +1,7 @@
+FROM eclipse-temurin:11
+WORKDIR /app
+COPY
+COPY 
+RUN
+CMD
+EXPOSE 8080
