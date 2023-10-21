@@ -1,0 +1,5 @@
+# Exclude the README file
+README.md
+
+# Exclude any build artifacts
+target/
