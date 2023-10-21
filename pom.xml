@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.finsys</groupId>
-    <artifactId>rest-example</artifactId>
+    <artifactId>rest-java-project</artifactId>
     <version>0.1.0</version>
 
     <parent>
@@ -86,8 +86,8 @@
                 <configuration>
                     <images>
                         <image>
-                            <name>rest-example:${project.version}</name>
-                            <alias>rest-example</alias>
+                            <name>rest-java-project:${project.version}</name>
+                            <alias>rest-java-project</alias>
                             <build>
                                 <from>openjdk:latest</from>
                                 <assembly>
