@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-pod
+spec:
+  containers:
+    - name: java-rest 
+      image: kenag/rest-java-project:latest
+      ports:
+        - containerPort: 8080
